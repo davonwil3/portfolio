@@ -45,6 +45,7 @@ function Portfolio(){
 return(
 <div id="portfolio-page" className="flex-container">
 
+
     <div className="flex-container main-container">
         <div className="flex-container menu-container"> 
             <img src="/images/profile-pic.jpeg" alt="" className="profile-pic"/>
@@ -56,6 +57,7 @@ return(
                 <em className="menu-items" onClick={changeContent}>Projects</em>
                 <a href={"https://www.github.com/davonwil3"} target="_blank"><em className="menu-items">Github</em></a>
                 <em className="menu-items" onClick={changeContent}>Contact Me</em>
+               
             </div>
         </div>
         <div className="flex-container portfolio-content">

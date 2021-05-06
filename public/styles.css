@@ -16,7 +16,7 @@ body{
     justify-content: center;
     background: linear-gradient(to right top, #65dfc9, #6cdbeb);
     height: 100vh;
-    min-height: 821px;
+    min-height: 1274px;
     min-width: 100%;
 }
 .main-container{
@@ -387,6 +387,7 @@ em{
         border-radius: 2rem;
         z-index: 2;
         backdrop-filter: blur(2rem);
+     
     }
     .projects-page{
         padding-top: 650px;
@@ -400,6 +401,8 @@ em{
         height: 100%;
         padding-top: 105px;
     }
+ 
+ 
 }
 
 @media only screen and (max-width: 1150px){
@@ -425,6 +428,7 @@ em{
     overflow-y: scroll;
    min-height: 100vh;
    min-width: 700px;
+   height: 100%;
 }
 .homepage-tablet{
     height: 100%;
