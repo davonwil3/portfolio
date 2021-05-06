@@ -16,7 +16,7 @@ body{
     justify-content: center;
     background: linear-gradient(to right top, #65dfc9, #6cdbeb);
     height: 100vh;
-    min-height: 1274px;
+    min-height: 890px;
     min-width: 100%;
 }
 .main-container{
