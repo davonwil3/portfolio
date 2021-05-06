@@ -8,6 +8,8 @@ function Projects(){
 
 
     return(
+
+        <div className="flex-container projects-container">
         <div className="flex-container projects-page">
             <Project
             
@@ -41,7 +43,7 @@ function Projects(){
 
         </div>
 
-
+        </div>
 
 
 
