@@ -25,7 +25,7 @@ function Projects(){
             
             title="Us Headlines"
             description = "This Project is called USheadlines. This project is a website that shows the top articles on different topics. You can also search for an article topic. This project utilizes an API called newsapi. Css grid is also featured in this project."
-            technologies = {<div><em className="technology">React</em><em className="technology">SASS</em><em className="technology">Css Grid</em> <em className="technology">AdobeXD</em><em className="technology">API's</em></div>}
+            technologies = {<div><em className="technology">React</em><em className="technology">SASS</em><em className="technology">API's</em><em className="technology">Node js</em><em className="technology">Css Grid</em> <em className="technology">AdobeXD</em></div>}
             src = "/images/usheadlines.png"
             link = "https://www.usheadlines.xyz"
             code ="https://github.com/davonwil3/apiproject"
