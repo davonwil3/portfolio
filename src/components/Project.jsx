@@ -33,12 +33,12 @@ function Projects(){
 
             <Project
             
-            title="Soires"
-            description = "Soires is a event planning buisness that I created. This was developed using React and SASS. This website uses a minimalist design."
-            technologies = {<div><em className="technology">React</em><em className="technology">SASS</em><em className="technology">Flex-box</em> <em className="technology">AdobeXD</em><em className="technology">Adobe Illustrator</em></div>}
-            src = "/images/soires.png"
-            link = "https://www.soiresevents.com"
-            code ="https://github.com/davonwil3/soires"
+            title="Us Headlines"
+            description = "This Project is called USheadlines. This project is a website that shows the top articles on different topics. You can also search for an article topic. This project utilizes an API called newsapi. Css grid is also featured in this project."
+            technologies = {<div><em className="technology">React</em><em className="technology">SASS</em><em className="technology">Css Grid</em> <em className="technology">AdobeXD</em><em className="technology">API's</em></div>}
+            src = "/images/usheadlines.png"
+            link = "https://www.usheadlines.xyz"
+            code ="https://github.com/davonwil3/apiproject"
             />
 
         </div>
